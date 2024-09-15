@@ -1,0 +1,624 @@
+.headder {
+    position: relative;
+    display: flex;
+    height: 70px;
+    color: #ffffff;
+    background-color: #0f6171;
+}
+
+.hedderleft {
+    position: absolute;
+    width: 50%;
+    font-family: 'Noto Sans', sans-serif;
+    top: 10px;
+    left: 190px;
+}
+
+.heddername {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+.hedderright {
+    position: absolute;
+    width: 50%;
+    text-align: right;
+    top: 19px;
+    left: 500px;
+}
+
+.heddermenu {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+.section1 {
+    display: flex;
+
+
+}
+
+.section1part1 {
+    position: relative;
+    width: 50%;
+    margin-bottom: -4px;
+}
+
+.section1part1gradiant {
+    background-image: linear-gradient(#a58243, #0f6171);
+    position: absolute;
+    width: 366px;
+    height: 503px;
+    top: 45px;
+    left: 386px;
+}
+
+.section1part2uperimg {
+    position: absolute;
+    top: -75px;
+    left: 10px;
+}
+
+.section1part2 {
+    position: relative;
+    width: 50%;
+    background-color: #19818f;
+}
+
+.section1part2img {
+    position: absolute;
+    top: 180px;
+    right: 155px;
+}
+
+.section1data {
+    font-style: italic;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 52px;
+    color: white;
+    position: absolute;
+    top: 302px;
+    left: 81px
+}
+
+.section2 {
+
+    height: 818px;
+    background-color: #19818f;
+    position: relative;
+}
+
+.section2part1 {
+    background-image: linear-gradient(#a58243, #0f6171);
+    width: 402px;
+    position: absolute;
+    top: -40px;
+    left: 245px;
+    height: 414px;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    padding: 202px 20px;
+}
+
+.section2line{
+    position: absolute;
+    top: 200px;
+    left: 185px;
+    width: 68px;
+    height: 3px;
+    background-color: white;
+
+}
+
+.section2part2 {
+    background-color: #0f6171;
+    height: 568px;
+    width: 534px;
+    position: absolute;
+    top: 50px;
+    left: 632px;
+}
+
+.section2img1 {
+    position: absolute;
+    top: 49px;
+    left: 690px;
+}
+
+.section2img2 {
+    position: absolute;
+    top: 110px;
+    left: 686px;
+}
+
+.section2part3 {
+    background-color: #a58243;
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 844px;
+    width: 375px;
+    font-size: 20px;
+    height: 53px;
+    text-align: center;
+    padding: 23px 0px 0px 0px;
+}
+
+.section3 {
+    background-color: #19818f;
+    position: relative;
+    height: 831.4px;
+}
+
+.section3img1 {
+    position: absolute;
+    top: 184px;
+    left: 680px;
+}
+
+.section3gradiant {
+    position: absolute;
+    top: -48px;
+    left: 188px;
+    height: 879px;
+    width: 638px;
+    background-image: linear-gradient(#a58243, #0f6171);
+}
+
+.section3part1 {
+    position: absolute;
+    top: 293px;
+    left: 318px;
+    height: 435px;
+    width: 972px;
+    background-color: #19818f;
+}
+
+.section3img2 {
+    position: absolute;
+    top: 107px;
+    left: 200px;
+}
+
+.section3img3 {
+    position: absolute;
+    top: 23px;
+    left: 274px;
+}
+
+.section3intro {
+    position: absolute;
+    height: 104px;
+    width: 412px;
+    top: 575px;
+    left: 187px;
+    background-color: #a58243;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    padding: 0px 20px;
+}
+
+.section3data {
+    position: absolute;
+    top: 330px;
+    left: 753px;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+}
+
+.section3dataanker {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid white;
+    font-size: 14px;
+}
+
+.section3dataanker:hover {
+    background-color: white;
+    color: black;
+}
+
+.section4 {
+    background-color: #19818f;
+    position: relative;
+    height: 895px;
+}
+
+.section4img1 {
+    position: absolute;
+    top: 50px;
+    left: 190px;
+}
+
+.section4part1 {
+    position: absolute;
+    top: 155px;
+    left: 692px;
+    background-color: #0f6171;
+    width: 492px;
+    height: 589px;
+}
+
+.section4img2 {
+    position: absolute;
+    top: 34px;
+    left: 692px;
+}
+
+.section4img3 {
+    position: absolute;
+    top: 184px;
+    left: 805px;
+}
+
+.section4part2 {
+    position: absolute;
+    top: 215px;
+    left: 239px;
+    color: #ffffff;
+    background-color: #a58243;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    padding: 70px 25px;
+    height: 352px;
+    width: 361px;
+}
+
+.section4dataanker {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid white;
+    font-size: 14px;
+}
+
+.section4dataanker:hover {
+    background-color: white;
+    color: black;
+}
+
+.section4data {
+    background-color: #a58243;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 545px;
+    left: 960px;
+    width: 358px;
+    height: 59px;
+    padding: 17px 10px 0px;
+}
+
+.section5 {
+    background-color: #19818f;
+    position: relative;
+    height: 720px;
+}
+
+.section5img1 {
+    position: absolute;
+    top: 103px;
+    left: 980px;
+}
+
+.section5img2 {
+    position: absolute;
+    top: -97px;
+    left: 320px;
+}
+
+.section5part1 {
+    background-color: #0f6171;
+    position: absolute;
+    height: 390px;
+    width: 772px;
+    top: 153px;
+    left: 490px;
+
+}
+
+.section5dataheading {
+    position: absolute;
+    top: 143px;
+    left: 316px;
+    font-style: italic;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+    font-size: 25px;
+
+}
+
+.section5data {
+    position: absolute;
+    top: 282px;
+    left: 510px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+
+.section6 {
+    background-color: #19818f;
+    position: relative;
+    height: 657px;
+}
+
+.section6img1 {
+    position: absolute;
+    top: 40px;
+    left: 379px;
+}
+
+.section6part1 {
+    position: absolute;
+    top: 65px;
+    left: 260px;
+    background-color: #0f6171;
+    height: 384px;
+    width: 643px;
+}
+
+.section6img2 {
+    position: absolute;
+    top: 20px;
+    left: 550px;
+}
+
+.section6img3 {
+    position: absolute;
+    top: 20px;
+    left: 220px;
+}
+
+.section6dataheading {
+    position: absolute;
+    top: 70px;
+    left: 975px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+
+}
+
+.section6data {
+    position: absolute;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    top: 135px;
+    left: 975px;
+    line-height: 1.5;
+}
+
+.section6name {
+    background-color: #a58243;
+    position: absolute;
+    font-family: 'Noto Sans', sans-serif;
+    top: 285px;
+    left: 185px;
+    height: 19px;
+    width: 273px;
+    padding: 25px 10px
+}
+
+.section7bgimg {
+    position: relative;
+    background-image: url('img18.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 684px;
+    background-position: 100%
+}
+
+.section7img1 {
+    position: absolute;
+    top: 35px;
+    left: 185px;
+}
+
+.section7part1 {
+    position: absolute;
+    top: 79px;
+    left: 291px;
+    background-color: #a58243;
+    width: 451px;
+    height: 258px;
+}
+
+.section7part2 {
+    background-color: #0f6171;
+    height: 250px;
+    width: 490px;
+    position: absolute;
+    top: 55px;
+    left: 220px;
+}
+
+.section7dataheading {
+    font-family: 'Playfair Display', serif;
+    color: white;
+    position: absolute;
+    top: 55px;
+    left: 250px;
+}
+
+.section7data {
+    position: absolute;
+    top: 175px;
+    left: 250px;
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+
+}
+
+.section8 {
+    position: relative;
+    background-color: #19818f;
+    height: 1050px;
+}
+
+.section8img1 {
+    position: absolute;
+    top: 60px;
+    left: 185px;
+}
+
+.section8part1 {
+    position: absolute;
+    top: 20px;
+    left: 365px;
+    width: 482px;
+    height: 511px;
+    background-color: #0f6171;
+}
+
+.section8img2 {
+    position: absolute;
+    top: -80px;
+    left: 270px;
+}
+
+.section8gradiant {
+    position: absolute;
+    top: 90px;
+    left: 820px;
+    width: 491px;
+    background-image: linear-gradient(#a58243, #0f6171);
+    height: 623px;
+}
+
+.section8data {
+    position: absolute;
+    top: 155px;
+    left: 875px;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.section8anker {
+    color: white;
+    padding: 8px 20px;
+    border: 2px solid white;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.section8anker:hover {
+    color: black;
+    background-color: white;
+}
+
+.section8data2 {
+    position: absolute;
+    top: 650px;
+    left: 210px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    line-height: 1.6;
+    font-style: italic;
+    font-size: 20px;
+    
+}
+
+.section8name{
+    position: absolute;
+    top: 309px;
+    left: 270px;
+    height: 69px;
+    width: 368px;
+    color: #ffffff;
+    background-color: #a58243;
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.section8line{
+    position: absolute;
+    top: 190px;
+    left: 800px;
+   background-color: #ffffff;
+    height: 3px;
+    width: 68px;
+
+}
+
+.hedder {
+    color: #ffffff;
+    background-color: #0f6171;
+    display: flex;
+    height: 170px;
+    padding: 0 170px;
+}
+
+
+.hedderpart {
+    width: 33.33%;
+    position: relative;
+}
+
+.hedderheading {
+    position: absolute;
+    top: 45px;
+    left: 45px;
+}
+
+.headingdata {
+    position: absolute;
+    top: 100px;
+    left: 45px;
+    font-size: 20px;
+}
+
+.hedderpartdata {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+}
+
+.hedder1{
+    position: relative;
+    background-color: #0f6171;
+    height: 70px;
+
+}
+
+.hedder1p{
+    margin: 0%;
+    text-align: center;
+    color: white;
+}
+
+.lastfooter{
+    position: relative;
+    height: 100px;
+    color: #ffffff;
+    background-color: #333333;
+}
+
+.hedderlastdata{
+    position: absolute;
+    top: 40px;
+    left: 645px;
+
+}
+
+.hedderlastanker{
+   color: #eedcbc;
+   border-bottom:2px solid #eedcbc;
+}
+
+.hedderlastanker:hover{
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid white;
+}
